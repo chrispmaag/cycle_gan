@@ -18,6 +18,7 @@ We can also look at the cycle consistency, where we take an input image, pass it
 
 ![day to day cycle](https://github.com/chrispmaag/cycle_gan/blob/main/images/day_to_day_cycle.jpg)
 ![day to day cycle 2](https://github.com/chrispmaag/cycle_gan/blob/main/images/day_to_day_cycle_2.jpg)
+![day to day cycle 3](https://github.com/chrispmaag/cycle_gan/blob/main/images/day_to_day_cycle_3.jpg)
 ![night to night cycle](https://github.com/chrispmaag/cycle_gan/blob/main/images/night_to_night_cycle.jpg)
 
 
